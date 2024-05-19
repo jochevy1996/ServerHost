@@ -4,7 +4,7 @@
 
 ServerHost 近期推出了全新的VPN主机服务，通过VPS主机计划提供无限制的VPN托管服务。为了庆祝这一新服务的推出，ServerHost为早期用户提供了独家折扣。现在注册，享受50%的折扣，使用优惠码：VPN。
 
-![image](https://github.com/jochevy1996/ServerHost/assets/169893600/ad81ab22-9037-4e8d-acce-453bcc4a2904)
+![image](https://github.com/jochevy1996/ServerHost/assets/169893600/56d31046-cbd1-43b8-8c6c-ad9bdc405e6d)
 
 ## ServerHost 官网地址
 
